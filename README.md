@@ -7,6 +7,6 @@ To download the datapack, click on "Code" and then on "Download ZIP" to download
 ## Supported versions
 The datapack was originally developed for `1.18.2`, but also works in all newer versions. However, the `pack_format` in `pack.mcmeta` may need to be adjusted accordingly. You can find a list of Datapack formats [here](https://minecraft.wiki/w/Pack_format).
 ## How to install
-After downloading the ZIP file, simply drag and drop it into your `datapacks` directory in your world directory.
+After downloading the ZIP file, open it and simply drag and drop the folder inside your ZIP file into your `datapacks` directory in your world directory.
 ## How to use
 To use the timer in game execute the command `/trigger timer`. Then a menu opens in your chat where you can change the settings of the timer. Please do  not spam the buttons in the chat when you are playing on a server as it will kick you for spamming.
